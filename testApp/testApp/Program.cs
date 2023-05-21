@@ -4,6 +4,7 @@ class Calculator
 {
     static void Main()
     {
+<<<<<<< HEAD
         Console.WriteLine("Простой консольный калькулятор");
 
         Console.Write("Введите первое число: ");
