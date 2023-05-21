@@ -12,7 +12,7 @@ class Calculator
         Console.Write("Введите второе число: ");
         double number2 = Convert.ToDouble(Console.ReadLine());
 
-        Console.Write("Введите операцию (+, -, *, /): ");
+        Console.Write("Введите операцию (+, -, *, /, ^): ");
         char operation = Convert.ToChar(Console.ReadLine());
 
         double result = 0;
@@ -29,7 +29,13 @@ class Calculator
                 result = number1 * number2;
                 break;
             case '/':
-                result = number1 / number2;
+                if(number2 != 0)
+                {
+                    result = number1 / number2;
+                }
+                break;
+            case '^':
+                result = Math.Pow(number1, number2);
                 break;
             default:
                 Console.WriteLine("Неверная операция");
