@@ -4,6 +4,7 @@ class Calculator
 {
     static void Main()
     {
+<<<<<<< HEAD
         Console.WriteLine("Простой консольный калькулятор");
 
         Console.Write("Введите первое число: ");
@@ -12,7 +13,7 @@ class Calculator
         Console.Write("Введите второе число: ");
         double number2 = Convert.ToDouble(Console.ReadLine());
 
-        Console.Write("Введите операцию (+, -, *, /): ");
+        Console.Write("Введите операцию (+, -, *, /, ^): ");
         char operation = Convert.ToChar(Console.ReadLine());
 
         double result = 0;
@@ -30,6 +31,9 @@ class Calculator
                 break;
             case '/':
                 result = number1 / number2;
+                break;
+            case '^':
+                result = Math.Pow(number1, number2);
                 break;
             default:
                 Console.WriteLine("Неверная операция");
