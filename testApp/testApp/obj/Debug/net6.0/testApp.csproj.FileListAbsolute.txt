@@ -1,0 +1,15 @@
+C:\lb5\ystu_lab5\testApp\testApp\bin\Debug\net6.0\testApp.exe
+C:\lb5\ystu_lab5\testApp\testApp\bin\Debug\net6.0\testApp.deps.json
+C:\lb5\ystu_lab5\testApp\testApp\bin\Debug\net6.0\testApp.runtimeconfig.json
+C:\lb5\ystu_lab5\testApp\testApp\bin\Debug\net6.0\testApp.dll
+C:\lb5\ystu_lab5\testApp\testApp\bin\Debug\net6.0\testApp.pdb
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.csproj.AssemblyReference.cache
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.AssemblyInfoInputs.cache
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.AssemblyInfo.cs
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.csproj.CoreCompileInputs.cache
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.dll
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\refint\testApp.dll
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.pdb
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\testApp.genruntimeconfig.cache
+C:\lb5\ystu_lab5\testApp\testApp\obj\Debug\net6.0\ref\testApp.dll
