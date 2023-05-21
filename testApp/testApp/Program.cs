@@ -29,7 +29,10 @@ class Calculator
                 result = number1 * number2;
                 break;
             case '/':
-                result = number1 / number2;
+                if(number2 != 0)
+                {
+                    result = number1 / number2;
+                }
                 break;
             case '^':
                 result = Math.Pow(number1, number2);
